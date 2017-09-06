@@ -1,0 +1,27 @@
+body {
+ background-color: #b4c2cb;
+ font-family: 'Coming Soon', cursive;
+}
+
+span {
+  color: red;
+  cursor: pointer;
+}
+
+.delete {
+  padding: 0px 10px;
+}
+
+#main {
+  background: url(../img/legal.png);
+  width: 400px;
+  height: 600px;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+#submit {
+  font-family: 'Coming Soon', cursive;
+  font-weight: bold;
+  background: white;
+}
